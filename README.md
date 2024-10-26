@@ -22,14 +22,15 @@ This is a simple Spring MVC application demonstrating basic features of the Spri
 
 ## Technologies Used
 
-- Java 11
-- Spring Framework 5.x
+- Java 21
+- Spring Framework 5.25
 - Spring MVC
-- Spring Boot
+- Servlet
 - Hibernate
 - MySQL
 - Maven
 - JSP
+- html
 
 ## Getting Started
 
@@ -37,4 +38,4 @@ To get a local copy up and running follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/spring-mvc-demo.git
+   git clone (https://github.com/Mehedi32057/Sprin_Mvc_Design.git)
